@@ -3,9 +3,9 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliaivi/ajs"
+    "url": "git+https://github.com/juliaivi/ajs.git"
   },
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
