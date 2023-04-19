@@ -1,6 +1,11 @@
 {
   "name": "@juliaivi/ajs",
 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/@juliaivi/ajs.git"
+  },
+
   "version": "2.0.2",
   "description": "",
   "main": "dist/index.js",
